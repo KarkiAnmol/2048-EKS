@@ -1,7 +1,7 @@
 # Deploying the 2048 Game on AWS EKS with Ingress
 ## Demo:
 
-![2048 Game Demo](./2048-demo.gif)
+![2048 Game Demo](./2048-demo.apng)
 
 
 ![Screenshot from 2024-11-13 08-36-02](https://github.com/user-attachments/assets/e703205e-4aa0-42ee-9731-bd827493e26a)
