@@ -1,4 +1,5 @@
 # Deploying the 2048 Game on AWS EKS with Ingress
+This project demonstrates the deployment of the popular 2048 game application on an Amazon Elastic Kubernetes Service (EKS) cluster using AWS Fargate for serverless compute and an Application Load Balancer (ALB) with Ingress for load balancing. The guide provides step-by-step instructions on setting up the necessary AWS infrastructure, configuring tools, deploying the application, and verifying the deployment through an accessible public endpoint.
 ## Demo:
 
 ![2048 Game Demo](./2048-demo.apng)
